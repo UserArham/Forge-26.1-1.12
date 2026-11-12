@@ -1,7 +1,7 @@
 # Eaglercraft 1.12.2 Special Edition (WASM-GC + JS/HTML5) leaked in March 2026
 **Welcome** to the special edition of **Eaglercraft 1.12** which has leaked through **LiveCodes** servers in 2023 and **GitHub Servers** in March 2026. You can change your background (that real **Minecraft** do not allow), finally!
 ## How to play?
-First go to **[Eaglercraft 1.12 Special Edition](https://eaglercraft-1-21-11-server.vercel.app/)**. Press ENTER and a link will show up like here.
+First go to **[Eaglercraft 1.12 Special Edition](https://eaglercraft-1-12-2-server.vercel.app/)**. Press ENTER and a link will show up like here.
 
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1d21197c-2389-4e34-8451-f80053c29307" />
